@@ -1,5 +1,7 @@
 # procedural-animation
 
+A small procedural animation test
+
 ## Build & Run
 
 ### Linux and MacOS
