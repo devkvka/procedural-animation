@@ -47,7 +47,7 @@ draw :: proc(ch: ^Chain) {
 main :: proc() {
     ch := Chain {
         first = Point{{300, 300}, DISTANCE_BETWEEN_PTS},
-        tail = make([dynamic]Point),
+        tail = [dynamic]Point{},
     }
 
     for i := 1; i < POINT_COUNT; i += 1 {
