@@ -6,7 +6,7 @@ A small procedural animation test
 
 ### Linux and MacOS
 
-Need [Odin compiler](https://odin-lang.org/) and bash.
+Need [Odin compiler](https://odin-lang.org/).
 
 ```./build.sh && ./bin/main```
 
